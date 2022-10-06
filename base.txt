@@ -1,0 +1,12 @@
+
+Aprender e Dominar:
+
+1ª - O que é lógica de programação.
+2ª - Inputs e Outputs
+3ª - Variáveis e constantes
+4ª - Condcionais
+5ª - Array, Vetores
+6ª - Loopings
+7ª - Funções
+8ª - Objetos
+
